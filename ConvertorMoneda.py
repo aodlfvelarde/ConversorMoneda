@@ -1,6 +1,6 @@
 # Conversor de moneda simple en Python
-# Autor: (Tu nombre)
-# Descripción: Conversión entre USD, EUR, PYG y ARS usando tasas fijas
+# Autor: (Adolfo Velarde)
+# Descripción: Conversion de moneda simple
 
 def mostrar_menu():
     print("\n=== Conversor de Moneda ===")
