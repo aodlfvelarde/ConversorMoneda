@@ -16,7 +16,7 @@ def convertir(monto, tasa):
     return monto * tasa
 
 def main():
-    # Tasas de ejemplo (podés actualizarlas cuando quieras)
+
     USD_A_PYG = 7700
     EUR_A_PYG = 8500
     ARS_A_PYG = 9
